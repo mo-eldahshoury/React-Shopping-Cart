@@ -19,7 +19,6 @@ Component-Based Architecture: Organized the project into modular components like
 
 🛠️ Tech Stack
 
-
 Frontend: React.js.
 
 Routing: React Router DOM.
