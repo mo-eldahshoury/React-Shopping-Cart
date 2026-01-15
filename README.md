@@ -44,5 +44,4 @@ git clone https://github.com/mo-eldahshoury/React-Shopping-Cart.git
 
 Install dependencies: npm install
 
-
 Start the application: npm start
