@@ -29,7 +29,6 @@ Version Control: Git & GitHub.
 
 📂 Project Structure
 
-
 The project follows a clean and professional directory structure:
 
 src/context: Contains the shop-context.jsx for global state.
