@@ -37,6 +37,7 @@ src/pages: Dedicated folders for shop and cart views.
 src/components: Reusable UI elements like the Navigation Bar.
 
 🔧 Installation & Setup
+
 Clone the repository: 
 git clone https://github.com/mo-eldahshoury/React-Shopping-Cart.git
 
