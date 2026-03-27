@@ -7,7 +7,7 @@ Context API Implementation A modern, responsive E-commerce shopping cart applica
 State Management (Context API): Utilized the ShopContextProvider to manage the global state of the shopping cart, ensuring data consistency across all components.
 
 
-Dynamic Routing: Implemented React Router for efficient navigation between the Shop page and the Cart page.
+Dynamic Routing: Implemented React Router for efficient navigation between the Shop page and the Cart page. 
 
 
 Shopping Cart Logic: Developed custom logic for adding/removing items and calculating the total cart amount dynamically.
