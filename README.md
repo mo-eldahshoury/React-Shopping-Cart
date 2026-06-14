@@ -16,7 +16,7 @@ Shopping Cart Logic: Developed custom logic for adding/removing items and calcul
 Component-Based Architecture: Organized the project into modular components like Navbar, CartItem, and Product for high maintainability.
 
 
-🛠️ Tech Stack  
+🛠️ Tech Stack 
 
 Frontend: React.js.
 
