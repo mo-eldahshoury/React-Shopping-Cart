@@ -4,7 +4,7 @@ Context API Implementation A modern, responsive E-commerce shopping cart applica
  
 
 
-🚀 Key Technical Features
+🚀 Key Technical Features 
 
 State Management (Context API): Utilized the ShopContextProvider to manage the global state of the shopping cart, ensuring data consistency across all components.
 
