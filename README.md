@@ -1,6 +1,5 @@
 React Shopping Cart  🛒
 
-
 Context API Implementation A modern, responsive E-commerce shopping cart application built with React.js. This project demonstrates advanced state management and seamless user navigation.
 
 
