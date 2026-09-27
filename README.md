@@ -6,15 +6,11 @@ Context API Implementation A modern, responsive E-commerce shopping cart applica
 
 State Management (Context API): Utilized the ShopContextProvider to manage the global state of the shopping cart, ensuring data consistency across all components.
 
-
 Dynamic Routing: Implemented React Router for efficient navigation between the Shop page and the Cart page. 
-
 
 Shopping Cart Logic: Developed custom logic for adding/removing items and calculating the total cart amount dynamically.
 
-
 Component-Based Architecture: Organized the project into modular components like Navbar, CartItem, and Product for high maintainability.
-
 
 🛠️ Tech Stack 
 
@@ -40,7 +36,6 @@ src/components: Reusable UI elements like the Navigation Bar.
 
 Clone the repository:
 git clone https://github.com/mo-eldahshoury/React-Shopping-Cart.git
-
 
 Install dependencies: npm install
 
