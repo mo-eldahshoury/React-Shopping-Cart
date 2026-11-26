@@ -22,7 +22,7 @@ Styling: CSS3 (Modular CSS for each component).
 
 Version Control: Git & GitHub.
 
-📂 Project Structure 
+📂 Project Structure
 
 The project follows a clean and professional directory structure:
 
